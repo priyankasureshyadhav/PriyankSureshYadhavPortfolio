@@ -4860,7 +4860,7 @@ a img {
     font-size: 35px;
     display: block;
     line-height: 1;
-    background-image: linear-gradient(to right,#b55732, #fff1c9)
+    color :#fff;
 }
 
 @media only screen and (min-width:550px) {
