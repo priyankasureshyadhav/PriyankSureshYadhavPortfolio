@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded",function(){new SweetScroll({}),particlesJS("particles-js", {
   particles: {
     number: { value: 30, density: { enable: true, value_area: 800 } },
-    color: { value: ["#8B4513", "#A0522D", "#D2B48C"] }, // brown gradient
+    color: { value: ["#8B4513", "#A0522D", "#D2B48C"] },
     shape: {
       type: "polygon",
       stroke: { width: 0, color: "#000000" },
